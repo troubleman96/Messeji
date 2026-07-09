@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Messeji</string>
+
+    <!-- General -->
+    <string name="karibu">Karibu Messeji</string>
+    <string name="karibu_sub">Meseji zako, kwa lugha yako, kwa urahisi.</string>
+    <string name="anza">Anza</string>
+    <string name="ruhusu">Ruhusu</string>
+    <string name="ruka">Ruka</string>
+    <string name="ruka_kwa_sasa">Ruka kwa sasa</string>
+    <string name="fungua">Fungua</string>
+    <string name="fungua_messeji">Fungua Messeji</string>
+    <string name="tuma">Tuma</string>
+    <string name="futa">Futa</string>
+    <string name="hifadhi">Hifadhi</string>
+    <string name="hifadhi_zote">Hifadhi Zote</string>
+    <string name="zote">Zote</string>
+    <string name="chagua">Chagua</string>
+    <string name="ghairi">Ghairi</string>
+    <string name="thibitisha">Thibitisha</string>
+    <string name="sawa">Sawa</string>
+    <string name="nyuma">Nyuma</string>
+    <string name="tafuta">Tafuta</string>
+    <string name="hakuna_matokeo">Hakuna matokeo</string>
+    <string name="loading">Inapakia…</string>
+    <string name="hitilafu">Hitilafu imetokea</string>
+    <string name="jaribu_tena">Jaribu tena</string>
+
+    <!-- Navigation -->
+    <string name="mazungumzo">Mazungumzo</string>
+    <string name="anwani">Anwani</string>
+    <string name="mipangilio">Mipangilio</string>
+    <string name="meseji_mpya">Meseji Mpya</string>
+
+    <!-- Categories -->
+    <string name="mtu_kwa_mtu">Mtu kwa Mtu</string>
+    <string name="pesa_na_otp">Pesa na Nambari za Uthibitisho</string>
+    <string name="matangazo">Matangazo</string>
+    <string name="hamisha_kundi">Hamisha kundi</string>
+    <string name="zote_hasa">Zote</string>
+
+    <!-- Thread states -->
+    <string name="hakuna_mazungumzo">Hakuna mazungumzo bado. Anza kwa kutuma meseji yako ya kwanza!</string>
+    <string name="hakuna_mtu_kwa_mtu">Hakuna meseji za Mtu kwa Mtu.</string>
+    <string name="hakuna_pesa_otp">Hakuna meseji za Pesa na OTP.</string>
+    <string name="hakuna_matangazo">Hakuna matangazo.</string>
+
+    <!-- Chat -->
+    <string name="andika_meseji">Andika meseji…</string>
+    <string name="meseji_imetumwa">Imetumwa</string>
+    <string name="meseji_imefikishwa">Imefikishwa</string>
+    <string name="inatumwa">Inatumwa…</string>
+    <string name="haijasomwa">Haijasomwa</string>
+    <string name="nda">NDA</string>
+    <string name="nakili">Nakili</string>
+    <string name="peleka_mbele">Peleka Mbele</string>
+    <string name="taarifa">Taarifa</string>
+    <string name="zuia">Zuia</string>
+    <string name="ripoti_uchafuzi">Ripoti Uchafuzi</string>
+    <string name="nyamazisha">Nyamazisha</string>
+    <string name="bandika">Bandika</string>
+    <string name="toa_bandiko">Toa Bandiko</string>
+    <string name="futa_mazungumzo">Futa Mazungumzo</string>
+    <string name="tafuta_ndani">Tafuta Ndani ya Mazungumzo</string>
+    <string name="pakua_picha">Pakua picha</string>
+    <string name="kiambatanisho">Kiambatanisho</string>
+    <string name="piga_picha">Piga Picha</string>
+    <string name="chagua_picha">Chagua Picha kutoka kwenye Nyumba ya Kumbukumbu</string>
+    <string name="shiriki_anwani">Shiriki Anwani</string>
+    <string name="sim_kutuma">SIM ya kutuma</string>
+    <string name="kwa">Kwa:</string>
+    <string name="andika_namba">Andika namba ya simu</string>
+    <string name="warn_group_mms">Kutuma kwa watu wengi kunaweza kugharimu zaidi</string>
+
+    <!-- Permissions -->
+    <string name="perm_sms_title">Ruhusa ya Kusoma na Kutuma Meseji</string>
+    <string name="perm_sms_body">Messeji inahitaji ruhusa ya kusoma na kutuma meseji ili iwe programu yako kuu ya SMS.</string>
+    <string name="perm_default_app">Weka Messeji kama programu yako kuu ya meseji.</string>
+    <string name="perm_contacts_title">Ruhusa ya Anwani</string>
+    <string name="perm_contacts_body">Ili kuonyesha majina ya watu badala ya namba za simu.</string>
+    <string name="perm_notifications_title">Ruhusa ya Arifa</string>
+    <string name="perm_notifications_body">Ili kukujulisha ukipokea meseji mpya.</string>
+    <string name="perm_phone_state_title">Ruhusa ya SIM</string>
+    <string name="perm_phone_state_body">Ili kukuruhusu kuchagua SIM ya kutumia unapotuma meseji.</string>
+    <string name="perm_banner">Messeji haiwezi kutuma au kupokea meseji bila ruhusa hii. Gusa hapa kuiwezesha.</string>
+
+    <!-- Onboarding -->
+    <string name="weka_sms_kuu">Weka kama SMS Kuu</string>
+    <string name="weka_sms_kuu_body">Messeji inahitaji kuwa programu yako kuu ya meseji ili kufanya kazi vizuri.</string>
+    <string name="weka_kuu">Weka Kuu</string>
+    <string name="washa_ulinzi">Washa Ulinzi wa PIN/Kidole</string>
+    <string name="weka_pin">Weka nenosiri la tarakimu 4–6</string>
+    <string name="thibitisha_pin">Thibitisha nenosiri</string>
+    <string name="umekamilika">Umekamilika!</string>
+    <string name="umekamilika_body">Messeji iko tayari kutumika. Unaweza kuanza kutuma na kupokea meseji.</string>
+
+    <!-- Contacts -->
+    <string name="anwani_mpya">Anwani Mpya</string>
+    <string name="piga_simu">Piga Simu</string>
+    <string name="tuma_meseji">Tuma Meseji</string>
+    <string name="mazungumzo_ya_awali">Mazungumzo ya Awali</string>
+    <string name="hakuna_anwani">Hakuna anwani zilizopatikana.</string>
+
+    <!-- Settings -->
+    <string name="wasifu">Wasifu</string>
+    <string name="arifa">Arifa</string>
+    <string name="muonekano">Muonekano</string>
+    <string name="kadi_za_sim">Kadi za SIM</string>
+    <string name="namba_zilizozuiwa">Namba Zilizozuiwa</string>
+    <string name="nakala_rudufu">Nakala Rudufu na Kurejesha</string>
+    <string name="ulinzi_wa_programu">Ulinzi wa Programu</string>
+    <string name="data_na_hifadhi">Data na Hifadhi</string>
+    <string name="unganisha_kompyuta">Unganisha na Kompyuta</string>
+    <string name="kuhusu">Kuhusu</string>
+    <string name="msaada">Msaada</string>
+    <string name="inakuja">Inakuja Hivi Karibuni</string>
+
+    <!-- Backup -->
+    <string name="fanya_nakala_sasa">Fanya Nakala Rudufu Sasa</string>
+    <string name="rejesha_nakala">Rejesha kutoka Nakala Rudufu</string>
+    <string name="nakala_otomatiki">Nakala Rudufu Kiotomatiki</string>
+    <string name="nakala_ime_simbwa">Nakala yako imesimbwa kwa usalama.</string>
+    <string name="hakuna_nakala">Hakuna nakala rudufu iliyopatikana.</string>
+
+    <!-- App Lock -->
+    <string name="weka_nenosiri">Weka nenosiri</string>
+    <string name="badili_pin">Badili PIN</string>
+    <string name="piga_pin">Piga nenosiri lako</string>
+    <string name="pini_hazilingani">Nambari hazilingani</string>
+    <string name="mara_moja">Mara moja</string>
+    <string name="dakika_1">Dakika 1</string>
+    <string name="dakika_5">Dakika 5</string>
+    <string name="kamwe">Kamwe</string>
+    <string name="tumia_bayometriki">Tumia kidole gusa / uso</string>
+
+    <!-- Blocked -->
+    <string name="hakuna_namba_zilizozuiwa">Hakuna namba zilizozuiwa.</string>
+    <string name="fungua_zuiwa">Fungua</string>
+
+    <!-- Notification settings -->
+    <string name="washa_arifa">Washa Arifa</string>
+    <string name="sauti_ya_arifa">Sauti ya Arifa</string>
+    <string name="mtetemo">Mtetemo</string>
+    <string name="onyesha_lockscreen">Onyesha kwenye skrini iliyofungwa</string>
+
+    <!-- Appearance -->
+    <string name="mwanga">Mwanga</string>
+    <string name="giza">Giza</string>
+    <string name="mfumo">Mfumo</string>
+
+    <!-- Time -->
+    <string name="sasa_hivi">Sasa hivi</string>
+    <string name="dakika">dakika</string>
+    <string name="saa">saa</string>
+    <string name="jana">Jana</string>
+    <string name="leo">Leo</string>
+
+    <!-- About -->
+    <string name="messeji_footer">Messeji imetengenezwa na Send Africa. Faragha yako ni muhimu kwetu — meseji zako hazitumwi kwenye seva zetu.</string>
+    <string name="privacy_policy">Sera ya Faragha</string>
+    <string name="terms">Masharti ya Matumizi</string>
+    <string name="licenses">Leseni</string>
+    <string name="toleo">Toleo</string>
+    <string name="msaada_body">Ikiwa una tatizo, wasiliana nasi kupitia messeji@sendafrica.co</string>
+    <string name="battery_optimization_tip">Baadhi ya simu huzuia arifa. Bofya hapa kuruhusu Messeji ifanye kazi vizuri nyuma.</string>
+</resources>

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "senders": [
+    {"sender": "MPESA", "category": "money_otp", "match_type": "exact"},
+    {"sender": "TIGOPESA", "category": "money_otp", "match_type": "exact"},
+    {"sender": "AIRTELMONEY", "category": "money_otp", "match_type": "exact"},
+    {"sender": "HALOPESA", "category": "money_otp", "match_type": "exact"},
+    {"sender": "VODACOM", "category": "money_otp", "match_type": "contains"},
+    {"sender": "CRDB", "category": "money_otp", "match_type": "contains"},
+    {"sender": "NMB", "category": "money_otp", "match_type": "exact"},
+    {"sender": "NMBBANK", "category": "money_otp", "match_type": "exact"},
+    {"sender": "EQUITY", "category": "money_otp", "match_type": "contains"},
+    {"sender": "BANK", "category": "money_otp", "match_type": "contains"},
+    {"sender": "M-PESA", "category": "money_otp", "match_type": "contains"},
+    {"sender": "T-PESA", "category": "money_otp", "match_type": "contains"},
+    {"sender": "AKIBA", "category": "money_otp", "match_type": "contains"},
+    {"sender": "DTB", "category": "money_otp", "match_type": "exact"},
+    {"sender": "KCB", "category": "money_otp", "match_type": "exact"},
+    {"sender": "PBZ", "category": "money_otp", "match_type": "exact"},
+    {"sender": "EXIM", "category": "money_otp", "match_type": "exact"},
+    {"sender": "SELCOM", "category": "money_otp", "match_type": "contains"}
+  ],
+  "keywords": [
+    {"keyword": "namba ya uthibitishaji", "category": "money_otp"},
+    {"keyword": "msimbo wa uthibitisho", "category": "money_otp"},
+    {"keyword": "otp", "category": "money_otp"},
+    {"keyword": "verification code", "category": "money_otp"},
+    {"keyword": "uthibitisho", "category": "money_otp"},
+    {"keyword": "umepokea", "category": "money_otp"},
+    {"keyword": "umetuma", "category": "money_otp"},
+    {"keyword": "salio", "category": "money_otp"},
+    {"keyword": "punguzo", "category": "promo"},
+    {"keyword": "ofa maalum", "category": "promo"},
+    {"keyword": "bei nafuu", "category": "promo"},
+    {"keyword": "bonyeza link", "category": "promo"},
+    {"keyword": "tunatoa", "category": "promo"},
+    {"keyword": "promo", "category": "promo"},
+    {"keyword": "mshindi", "category": "promo"},
+    {"keyword": "zawadi", "category": "promo"},
+    {"keyword": "bonus", "category": "promo"},
+    {"keyword": "unakumbushwa", "category": "promo"},
+    {"keyword": "jiandikishe", "category": "promo"},
+    {"keyword": "pata nafasi", "category": "promo"},
+    {"keyword": "mdau", "category": "promo"},
+    {"keyword": "tangazo", "category": "promo"}
+  ],
+  "regexes": [
+    {"pattern": "[Tt][Ss][Hh]?\\s*[\\d,]+(?:\\.[\\d]{2})?", "category": "money_otp"},
+    {"pattern": "\\d{4,8}(?=\\s*(?:ni|ndiyo|ndio|yako|kwako))", "category": "money_otp"},
+    {"pattern": "https?://\\S+", "category": "promo"}
+  ]
+}
