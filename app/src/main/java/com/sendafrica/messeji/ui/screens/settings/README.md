@@ -1,6 +1,6 @@
 # Settings Screens (`ui/screens/settings/`)
 
-Application settings with main menu and sub-screens.
+Application settings with main menu and sub-screens. Built by Camel Creatives.
 
 ## `SettingsScreen.kt`
 

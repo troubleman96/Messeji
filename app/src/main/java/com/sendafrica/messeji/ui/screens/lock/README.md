@@ -1,6 +1,6 @@
 # Lock Screens (`ui/screens/lock/`)
 
-App lock functionality: PIN entry and setup.
+App lock functionality: PIN entry and setup. Built by Camel Creatives.
 
 ## `LockScreen.kt`
 

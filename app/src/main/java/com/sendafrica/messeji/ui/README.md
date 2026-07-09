@@ -1,6 +1,6 @@
 # UI Layer (`ui/`)
 
-All user interface code built with Jetpack Compose and Material 3.
+All user interface code built with Jetpack Compose and Material 3. Built by Camel Creatives.
 
 ## Structure
 

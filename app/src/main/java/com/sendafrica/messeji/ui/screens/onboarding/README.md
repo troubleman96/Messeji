@@ -2,7 +2,7 @@
 
 ## `OnboardingScreen.kt`
 
-6-step first-run flow that guides the user through permissions and setup.
+6-step first-run flow that guides the user through permissions and setup. Built by Camel Creatives.
 
 ### Steps
 

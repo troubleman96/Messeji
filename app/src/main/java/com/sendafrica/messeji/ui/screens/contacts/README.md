@@ -1,6 +1,6 @@
 # Contacts Screens (`ui/screens/contacts/`)
 
-Device contacts browsing and detail view.
+Device contacts browsing and detail view. Built by Camel Creatives.
 
 ## `ContactsViewModel.kt`
 

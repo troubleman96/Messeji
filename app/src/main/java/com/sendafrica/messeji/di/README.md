@@ -2,7 +2,7 @@
 
 ## `AppModule.kt`
 
-Hilt module providing singleton-scoped dependencies across the app.
+Hilt module providing singleton-scoped dependencies across the app. Built by Camel Creatives.
 
 ### Provided Dependencies
 

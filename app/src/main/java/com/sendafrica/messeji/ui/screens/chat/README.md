@@ -1,6 +1,6 @@
 # Chat Screen (`ui/screens/chat/`)
 
-The individual message thread view — send, receive, and manage a conversation.
+The individual message thread view — send, receive, and manage a conversation. Built by Camel Creatives.
 
 ## `ChatViewModel.kt`
 

@@ -2,7 +2,7 @@
 
 ## `BackupRestoreScreen.kt`
 
-Manage encrypted backups of SMS and metadata.
+Manage encrypted backups of SMS and metadata. Built by Camel Creatives.
 
 ```
 ┌─────────────────────────────────────┐

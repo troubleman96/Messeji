@@ -1,6 +1,6 @@
 # Domain Layer (`domain/`)
 
-Contains pure Kotlin data classes used across the app. These are the canonical representations of core business objects.
+Contains pure Kotlin data classes used across the app. These are the canonical representations of core business objects. Built by Camel Creatives.
 
 ## Models
 

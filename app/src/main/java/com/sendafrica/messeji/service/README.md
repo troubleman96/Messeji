@@ -1,6 +1,6 @@
 # Background Services (`service/`)
 
-Handles system-level events: incoming SMS, device boot, and notification reliability.
+Handles system-level events: incoming SMS, device boot, and notification reliability. Built by Camel Creatives.
 
 ## Components
 

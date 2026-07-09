@@ -1,6 +1,6 @@
 # Messeji — Core Application (`com.sendafrica.messeji`)
 
-This is the root package for the Messeji Android application. All source code lives under this namespace.
+This is the root package for the Messeji Android application. All source code lives under this namespace. Built by Camel Creatives.
 
 ## Package Overview
 

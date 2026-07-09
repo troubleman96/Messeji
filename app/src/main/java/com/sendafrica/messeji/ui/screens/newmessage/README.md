@@ -1,6 +1,6 @@
 # New Message Screen (`ui/screens/newmessage/`)
 
-Compose and send a new SMS or group MMS.
+Compose and send a new SMS or group MMS. Built by Camel Creatives.
 
 ## `NewMessageViewModel.kt`
 

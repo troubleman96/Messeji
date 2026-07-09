@@ -2,7 +2,7 @@
 
 **Messeji** ("Messages" — Swahilized) is a default-SMS-replacement Android app built for the Tanzanian market. It takes the core SMS/MMS experience Tanzanians already use daily — mobile money alerts from M-Pesa/Tigo Pesa/Airtel Money, OTPs, person-to-person texting, business SMS — and wraps it in a fast, beautiful, entirely Swahili interface with modern conveniences: smart categorization of mobile money/OTP messages, spam blocking, dual-SIM awareness, and low-data-usage design.
 
-> **Product by [Send Africa](https://sendafrica.co)**  
+> **Product by Send Africa** — **Built by [Camel Creatives](https://camelcreatives.com)**  
 > 100% Swahili interface — no English in the shipped product.
 
 ---
@@ -240,7 +240,7 @@ gradle.properties         # Gradle JVM & AndroidX settings
 ## Screens & Features
 
 ### 1. Splash / Launch
-- Send Africa wordmark → Messeji logo, routes to Onboarding (first run) or Home.
+- Camel Creatives splash → Messeji logo, routes to Onboarding (first run) or Home.
 
 ### 2. Onboarding (6 steps)
 | Step | Screen | Description |
@@ -298,7 +298,7 @@ gradle.properties         # Gradle JVM & AndroidX settings
 | **Ulinzi wa Programu** | PIN/biometric lock setup, auto-lock timing |
 | **Data na Hifadhi** | Cache size, auto-download media settings |
 | **Unganisha na Kompyuta** | Phase 2 — shown as "Inakuja Hivi Karibuni" |
-| **Kuhusu** | Version, Send Africa branding, privacy policy |
+| **Kuhusu** | Version, Camel Creatives / Send Africa branding, privacy policy |
 | **Msaada** | FAQ / Contact support |
 
 ### 9. App Lock
@@ -358,7 +358,7 @@ Permissions are requested **progressively** (never all at once), each with a pla
 ## Design System
 
 ### Brand Identity
-- **Brand**: Send Africa presents Messeji
+- **Brand**: Camel Creatives presents Messeji for Send Africa
 - **Primary color**: Deep Kilimanjaro green `#0B6E4F` (distinct from WhatsApp green)
 - **Accent**: Sun-gold `#F2A93B` (unread badges, money/OTP tags)
 - **Alert**: Maasai red `#C1272D` (delete, block, spam)
@@ -475,11 +475,12 @@ The spec for a WhatsApp-Web-style desktop companion via QR pairing is fully docu
 
 ## License
 
-© 2024 Send Africa. All rights reserved.
+© 2024 Send Africa. All rights reserved.  
+Built by **Camel Creatives**.
 
-Messeji is built by **Send Africa** for the Tanzanian market.  
+Messeji is built for the Tanzanian market.  
 *Your privacy matters — your messages are never sent to our servers.*
 
 ---
 
-*Built with ❤️ for Tanzania. Meseji zako, kwa lugha yako, kwa urahisi.*
+*Built with ❤️ by Camel Creatives for Tanzania. Meseji zako, kwa lugha yako, kwa urahisi.*

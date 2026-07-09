@@ -1,6 +1,6 @@
 # Resources (`res/`)
 
-Android resource files for Messeji. All user-facing text is in Swahili only.
+Android resource files for Messeji. All user-facing text is in Swahili only. Built by Camel Creatives.
 
 ## Structure
 

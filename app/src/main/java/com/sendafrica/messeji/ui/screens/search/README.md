@@ -1,6 +1,6 @@
 # Search Screen (`ui/screens/search/`)
 
-Global search across message content and contacts.
+Global search across message content and contacts. Built by Camel Creatives.
 
 ## `SearchViewModel.kt`
 

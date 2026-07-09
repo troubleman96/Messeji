@@ -2,6 +2,7 @@
 
 Each sub-directory contains one screen or feature module with its own ViewModel.
 Every screen follows the pattern: `{Name}Screen.kt` (UI) + `{Name}ViewModel.kt` (state).
+Built by Camel Creatives.
 
 ## Screen Index
 
@@ -18,7 +19,7 @@ Every screen follows the pattern: `{Name}Screen.kt` (UI) + `{Name}ViewModel.kt` 
 | Lock | `lock/` | PIN entry screen + lock setup (PIN/biometric/auto-lock) |
 | Backup | `backup/` | Backup now, auto-backup toggle, restore |
 | Blocked | `blocked/` | Blocked numbers list with unblock action |
-| About | `about/` | App info, version, Send Africa branding |
+| About | `about/` | App info, version, Camel Creatives / Send Africa branding |
 
 ## Common UI Patterns
 

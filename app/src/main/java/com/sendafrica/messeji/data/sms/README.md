@@ -2,7 +2,7 @@
 
 ## `SmsManager.kt`
 
-Wraps Android's `Telephony.Sms` ContentResolver and `SmsManager` APIs. This is the only class that directly interacts with the system SMS provider.
+Wraps Android's `Telephony.Sms` ContentResolver and `SmsManager` APIs. This is the only class that directly interacts with the system SMS provider. Built by Camel Creatives.
 
 ### Key Responsibilities
 

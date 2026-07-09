@@ -1,6 +1,6 @@
 # Categorization Engine (`data/categorization/`)
 
-The categorization engine is the app's "smart inbox" brain. It runs **entirely on-device** — no message data ever leaves the phone.
+The categorization engine is the app's "smart inbox" brain. It runs **entirely on-device** — no message data ever leaves the phone. Built by Camel Creatives.
 
 ## Core Class: `CategoryEngine.kt`
 

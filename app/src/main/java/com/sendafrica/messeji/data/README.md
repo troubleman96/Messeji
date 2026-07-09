@@ -1,6 +1,6 @@
 # Data Layer (`data/`)
 
-The data layer handles all persistence, SMS system interaction, and business logic for message categorization. It is organized into four sub-packages.
+The data layer handles all persistence, SMS system interaction, and business logic for message categorization. It is organized into four sub-packages. Built by Camel Creatives.
 
 ## Structure
 

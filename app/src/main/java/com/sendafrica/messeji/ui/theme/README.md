@@ -1,6 +1,6 @@
 # Theme (`ui/theme/`)
 
-Material 3 theme system with light and dark color schemes.
+Material 3 theme system with light and dark color schemes. Built by Camel Creatives.
 
 ## Files
 

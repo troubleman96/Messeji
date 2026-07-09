@@ -2,7 +2,7 @@
 
 ## `MessageRepository.kt`
 
-The single source of truth for all data operations. ViewModels call this repository — they never access Room DAOs or the SMS ContentResolver directly.
+The single source of truth for all data operations. ViewModels call this repository — they never access Room DAOs or the SMS ContentResolver directly. Built by Camel Creatives.
 
 ### Dependencies (injected via Hilt)
 

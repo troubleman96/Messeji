@@ -1,6 +1,6 @@
 # Navigation (`ui/navigation/`)
 
-Centralized navigation graph using Jetpack Navigation Compose.
+Centralized navigation graph using Jetpack Navigation Compose. Built by Camel Creatives.
 
 ## `NavGraph.kt`
 

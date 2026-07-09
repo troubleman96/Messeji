@@ -2,7 +2,7 @@
 
 ## `BlockedNumbersScreen.kt`
 
-View and manage blocked phone numbers.
+View and manage blocked phone numbers. Built by Camel Creatives.
 
 ```
 ┌─────────────────────────────────────┐

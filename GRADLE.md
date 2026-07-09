@@ -1,6 +1,6 @@
 # Gradle Build System
 
-Project-level build configuration for the Messeji Android app.
+Project-level build configuration for the Messeji Android app. Built by Camel Creatives.
 
 ## Files
 

@@ -1,6 +1,6 @@
 # Notification System (`notification/`)
 
-Handles all notification display for incoming SMS messages. Uses Android NotificationCompat with per-category channels.
+Handles all notification display for incoming SMS messages. Uses Android NotificationCompat with per-category channels. Built by Camel Creatives.
 
 ## Components
 

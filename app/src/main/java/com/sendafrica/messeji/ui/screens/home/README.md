@@ -1,6 +1,6 @@
 # Home Screen (`ui/screens/home/`)
 
-The main conversation list — the default landing tab after onboarding.
+The main conversation list — the default landing tab after onboarding. Built by Camel Creatives.
 
 ## `HomeViewModel.kt`
 

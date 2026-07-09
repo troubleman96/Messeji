@@ -1,6 +1,6 @@
 # Database Layer (`data/db/`)
 
-Room database for Messeji-specific metadata. This sits **on top of** the Android system SMS provider — it does not duplicate message content.
+Room database for Messeji-specific metadata. This sits **on top of** the Android system SMS provider — it does not duplicate message content. Built by Camel Creatives.
 
 ## Database: `AppDatabase.kt`
 

@@ -1,6 +1,6 @@
 # Utilities (`util/`)
 
-Helper classes used across the application.
+Helper classes used across the application. Built by Camel Creatives.
 
 ## `ContactResolver.kt`
 

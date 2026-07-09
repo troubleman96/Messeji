@@ -75,14 +75,14 @@ fun AboutScreen(
             )
             Spacer(modifier = Modifier.height(24.dp))
             Text(
-                text = "Messeji imetengenezwa na Send Africa. Faragha yako ni muhimu kwetu — meseji zako hazitumwi kwenye seva zetu.",
+                text = "Messeji imetengenezwa na Camel Creatives kwa ajili ya Send Africa. Faragha yako ni muhimu kwetu — meseji zako hazitumwi kwenye seva zetu.",
                 style = MaterialTheme.typography.bodyLarge,
                 textAlign = TextAlign.Center,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
             )
             Spacer(modifier = Modifier.height(32.dp))
             Text(
-                text = "© 2024 Send Africa. Haki zote zimehifadhiwa.",
+                text = "Built by Camel Creatives. © 2024 Send Africa. Haki zote zimehifadhiwa.",
                 style = MaterialTheme.typography.bodySmall,
                 textAlign = TextAlign.Center,
                 modifier = Modifier.fillMaxWidth(),
